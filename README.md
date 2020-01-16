@@ -1,1 +1,3 @@
-# nss-class-lesson-grocery-list
+# Class Lesson: Grocery List
+
+
